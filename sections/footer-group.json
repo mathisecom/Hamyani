@@ -24,7 +24,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "LIVRAISON OFFERTE",
-            "content": ""
+            "content": "<p>Traitement rapide sous 24h à 48h, préparé avec le plus grand soin.</p>"
           }
         },
         "customer-support": {
@@ -37,7 +37,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "PAIEMENT SÉCURISÉ",
-            "content": ""
+            "content": "<p>Un paiement confidentiel et sécurisé, dans le respect des standards les plus exigeants.</p>"
           }
         },
         "discount": {
@@ -50,11 +50,12 @@
             "icon_background": "",
             "icon_color": "",
             "title": "SATISFAIT OU REMBOURSÉ",
-            "content": ""
+            "content": "<p>Remboursement facile, votre satisfaction est notre priorité.</p>"
           }
         },
         "item_cqUwwC": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "picto-coupon",
             "mobile_icon_width": 28,
