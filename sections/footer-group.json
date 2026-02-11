@@ -18,8 +18,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-box",
-            "mobile_icon_width": 28,
-            "icon_width": 28,
+            "custom_icon": "shopify://shop_images/s1zizhb8.png",
+            "mobile_icon_width": 44,
+            "icon_width": 44,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
