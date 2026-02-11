@@ -18,10 +18,6 @@
             "heading_tag": "h2"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -30,16 +26,14 @@
         },
         "rating": {
           "type": "rating",
+          "disabled": true,
           "settings": {
             "show_empty": false
           }
         },
         "payment_terms": {
           "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
+          "disabled": true,
           "settings": {}
         },
         "description": {
@@ -75,19 +69,39 @@
             "payment_button_background": "#000000",
             "payment_button_text_color": "#ffffff"
           }
+        },
+        "collapsible_text_Hg3zEw": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_8iJ9Pf": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "title",
-        "badges",
         "price",
         "rating",
         "payment_terms",
-        "separator",
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "collapsible_text_Hg3zEw",
+        "collapsible_text_8iJ9Pf"
       ],
       "settings": {
         "full_width": true,
