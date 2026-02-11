@@ -135,6 +135,32 @@
         "input_text_color": "#362126"
       }
     },
+    "rich_text_EdwKtH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EGGyU7": {
+          "type": "heading",
+          "settings": {
+            "text": "+2,000 Clientes Satisfaites !",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_EGGyU7"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "testimonials_qGDpcV": {
       "type": "testimonials",
       "blocks": {
@@ -191,7 +217,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "testimonial_card_background": "",
+        "testimonial_card_background": "#f9f6f8",
         "testimonial_card_text_color": ""
       }
     },
@@ -220,6 +246,7 @@
   },
   "order": [
     "main",
+    "rich_text_EdwKtH",
     "testimonials_qGDpcV",
     "related-products"
   ]
