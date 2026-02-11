@@ -24,7 +24,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "LIVRAISON OFFERTE",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "content": ""
           }
         },
         "customer-support": {
@@ -37,7 +37,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "PAIEMENT SÉCURISÉ",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "content": ""
           }
         },
         "discount": {
@@ -50,7 +50,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "SATISFAIT OU REMBOURSÉ",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "content": ""
           }
         },
         "item_cqUwwC": {
@@ -63,7 +63,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "SERVICE CLIENT 24/7",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "content": ""
           }
         }
       },
