@@ -20,10 +20,26 @@
             "text": "Livraison Offerte à Partir de 80€",
             "url": ""
           }
+        },
+        "message_YhJkQi": {
+          "type": "message",
+          "settings": {
+            "text": "Satisfaite ou Remboursée",
+            "url": ""
+          }
+        },
+        "message_agcPq7": {
+          "type": "message",
+          "settings": {
+            "text": "COLLECTION HIVER 2026",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_YhJkQi",
+        "message_agcPq7"
       ],
       "settings": {
         "enable_sticky": false,
