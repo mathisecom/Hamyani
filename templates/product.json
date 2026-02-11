@@ -186,12 +186,24 @@
             "title": "Testimonial 3",
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
+        },
+        "testimonial_KUyL3L": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_XPFf6i",
         "testimonial_KyMG4D",
-        "testimonial_7bMqAA"
+        "testimonial_7bMqAA",
+        "testimonial_KUyL3L"
       ],
       "name": "Testimonials",
       "settings": {
