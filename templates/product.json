@@ -30,17 +30,11 @@
             "show_taxes_notice": false
           }
         },
-        "rating": {
-          "type": "rating",
-          "disabled": true,
+        "inventory_q8qkVJ": {
+          "type": "inventory",
           "settings": {
-            "show_empty": false
+            "low_inventory_threshold": 0
           }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "disabled": true,
-          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -97,8 +91,7 @@
         "liquid_eKPA9R",
         "title",
         "price",
-        "rating",
-        "payment_terms",
+        "inventory_q8qkVJ",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
