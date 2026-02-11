@@ -80,7 +80,7 @@
         "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "",
+        "background": "#f9f6f8",
         "background_gradient": "",
         "text_color": ""
       }
