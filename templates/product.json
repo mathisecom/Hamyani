@@ -71,7 +71,7 @@
             "show_payment_button": true,
             "show_gift_card_recipient": false,
             "atc_button_background": "#000000",
-            "atc_button_text_color": "#1a1a1a",
+            "atc_button_text_color": "#ffffff",
             "payment_button_background": "#000000",
             "payment_button_text_color": "#ffffff"
           }
@@ -103,8 +103,8 @@
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
+        "input_background": "#000000",
+        "input_text_color": "#ffffff"
       }
     },
     "related-products": {
