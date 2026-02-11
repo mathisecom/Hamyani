@@ -15,7 +15,7 @@
         "liquid_eKPA9R": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"product-info__liquid\">\n            <div class=\"mv-stars\">\n  <span class=\"mv-stars-icons\">★★★★★</span>\n  <span class=\"mv-stars-text\">(+1.000 kunder med Vitality)</span>\n</div>\n\n<style>\n  .mv-stars{\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    font-family: Arial, sans-serif;\n  }\n\n  .mv-stars-icons{\n    color: #FFC107; /* ⭐ JAUNE */\n    font-size: 18px;\n    line-height: 1;\n  }\n\n  .mv-stars-text{\n    font-size: 14px;\n    color: #000;\n  }\n</style>\n          </div>"
+            "liquid": "<div class=\"product-info__liquid\">\n            <div class=\"mv-stars\">\n  <span class=\"mv-stars-icons\">★★★★★</span>\n  <span class=\"mv-stars-text\">(+1.000 kunder med Vitality)</span>\n</div>\n\n<style>\n  .mv-stars{\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    font-family: Arial, sans-serif;\n  }\n\n  .mv-stars-icons{\n    color: #92606F; /* ⭐ JAUNE */\n    font-size: 18px;\n    line-height: 1;\n  }\n\n  .mv-stars-text{\n    font-size: 14px;\n    color: #000;\n  }\n</style>\n          </div>"
           }
         },
         "title": {
